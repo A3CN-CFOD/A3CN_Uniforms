@@ -1,0 +1,8 @@
+#include "BasicDefines.hpp"
+#include "CfgPatches.hpp"
+#include "CfgFactionClasses.hpp"
+#include "CfgEditorSubcategories.hpp"
+#include "CfgMods.hpp"
+#include "CfgVehicles.hpp"
+#include "CfgWeapons.hpp"
+#include "CfgFunctions.hpp"
