@@ -20,7 +20,7 @@ enum {
 
 class CfgPatches
 {
-	class a3cn_uniforms_main
+	class A3CN_Uniforms_Main
 	{
 		author = "A3CN Team";
 		name = "A3CN Uniforms";
@@ -61,7 +61,7 @@ class CfgAddons
 	{
 		class A3_Mod
 		{
-			list[] = {"a3cn_uniforms_main"};
+			list[] = {"A3CN_Uniforms_Main"};
 		};
 	};
 };
