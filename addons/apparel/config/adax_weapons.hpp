@@ -44,7 +44,7 @@ class A3CN_AS1_Apparel_Adax_Shirt : Uniform_Base
 class A3CN_AS2_Apparel_Adax_Sniper : Uniform_Base {
 	scope = public;
 	author = "NFC3SPECTRO / Toaster";
-	displayName = "AS2 - Guillie Caçador (ADAX)";
+	displayName = "AS2 - Ghillie Caçador (ADAX)";
 	picture = "\A3\characters_f\data\ui\icon_u_b_combatuniform_mcam_ca.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 	class ItemInfo : UniformItem {
@@ -57,7 +57,7 @@ class A3CN_AS2_Apparel_Adax_Sniper : Uniform_Base {
 class A3CN_AS3_Apparel_Adax_FullSniper : Uniform_Base {
 	scope = public;
 	author = "NFC3SPECTRO / Toaster";
-	displayName = "AS3 - Guillie Caçador (ADAX)";
+	displayName = "AS3 - Ghillie Caçador (ADAX)";
 	picture = "\A3\characters_f\data\ui\icon_u_b_combatuniform_mcam_ca.paa";
 	model = "\A3\Characters_F\Common\Suitpacks\suitpack_blufor_diver";
 	class ItemInfo : UniformItem {
