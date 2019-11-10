@@ -1,5 +1,5 @@
 #define _ARMA_
-
+#include "script_version.hpp"
 
 enum {
 	destructengine = 2,

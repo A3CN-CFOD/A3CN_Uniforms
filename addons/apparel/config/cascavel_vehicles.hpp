@@ -32,6 +32,13 @@ class A3CN_AS3_Cascavel_FullSniper : B_Soldier_A3CN {
 	hiddenSelections[] = {"Camo","Camo3","Insignia"};
 	hiddenSelectionsTextures[] = {"x\a3cn_uniforms\addons\apparel\data\cascavel_fullsuit.paa","x\a3cn_uniforms\addons\apparel\data\cascavel_forage.paa"};
 };
+class A3CN_AE1_Cascavel_Viper : O_Viper_A3CN {
+	model = "\A3\Characters_f_exp\OPFOR\o_viper.p3d";
+	uniformClass = "A3CN_AS3_Apparel_Cascavel_Viper";
+	hiddenSelections[] = {"Camo"};
+	hiddenSelectionsTextures[] = {"x\a3cn_uniforms\addons\apparel\data\cascavel_viper.paa"};
+	hiddenSelectionsMaterials[] = {"x\a3cn_uniforms\addons\apparel\data\viper_suit.rvmat","x\a3cn_uniforms\addons\apparel\data\viper_suit_injury.rvmat","x\a3cn_uniforms\addons\apparel\data\viper_suit_injury.rvmat"};
+};
 
 
 
